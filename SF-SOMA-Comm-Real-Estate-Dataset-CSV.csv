@@ -1,0 +1,65 @@
+Address,City,State,Zip Code,Neighborhood,Property Sq Ft, List Rental Price/Month , Price per Sq Ft/Year ,Description / Characterization,Rent Range (if provided),Listing Website
+1045 Bryant Street,San Francisco,CA,94103,SoMa,"4,361","$21,085.00 ",$60.00 ,Office,,cityfeet.com
+1108 Bryant Street,San Francisco,CA,94103,SoMa,"1,351","$3,945.00 ",$35.04 ,Office,,cityfeet.com
+1121 Howard Street,San Francisco,CA,94103,SoMa,"2,800","$10,500.00 ",$45.00 ,Office,,cityfeet.com
+1121 Howard Street,San Francisco,CA,94103,SoMa,"2,200","$10,083.33 ",$55.00 ,Office,,cityfeet.com
+1159 Howard Street,San Francisco,CA,94103,SoMa,"7,220","$25,270.00 ",$42.00 ,Office,,cityfeet.com
+1169 Howard Street,San Francisco,CA,94103,SoMa,"1,400","$6,244.00 ",$53.52 ,Office,,cityfeet.com
+123 10th Street,San Francisco,CA,94103,SoMa,"6,000","$18,900.00 ",$37.80 ,Office,,cityfeet.com
+1252 Howard Street,San Francisco,CA,94103,SoMa,"4,500","$20,250.00 ",$54.00 ,Office,54.00-56.00,cityfeet.com
+1309 Harrison Street,San Francisco,CA,94103,SoMa,"1,600","$6,000.00 ",$45.00 ,Office,,cityfeet.com
+1349 Mission Street,San Francisco,CA,94103,SoMa,"2,500","$7,500.00 ",$36.00 ,Office,,cityfeet.com
+1525 Mission Street,San Francisco,CA,94103,SoMa,"7,624","$31,767.00 ",$50.00 ,Office,,cityfeet.com
+20 6th Street,San Francisco,CA,94103,SoMa,"1,535","$7,000.00 ",$54.72 ,Office,,cityfeet.com
+201 Alabama Street,San Francisco,CA,94103,SoMa,"5,031","$12,578.00 ",$30.00 ,Office/Warehouse,,cityfeet.com
+223 Valencia Street,San Francisco,CA,94103,SoMa,"5,100","$14,998.00 ",$35.29 ,Office,,cityfeet.com
+227 Valencia Street,San Francisco,CA,94103,SoMa,"6,000","$17,645.00 ",$35.29 ,Office,,cityfeet.com
+231 Valencia Street,San Francisco,CA,94103,SoMa,"6,000","$16,321.50 ",$35.29 ,Office,,cityfeet.com
+245 Kansas Street,San Francisco,CA,94103,SoMa,"10,100","$30,300.00 ",$36.00 ,Office,,cityfeet.com
+251 Rhode Island Street,San Francisco,CA,94103,SoMa,"4,629","$26,231.00 ",$68.00 ,Office,,cityfeet.com
+251 S Van Ness Ave.,San Francisco,CA,94103,SoMa,700,"$3,500.00 ",$60.00 ,Office,,cityfeet.com
+251 S Van Ness Ave.,San Francisco,CA,94103,SoMa,"1,750","$8,750.00 ",$60.00 ,Office,,cityfeet.com
+251 S Van Ness Ave.,San Francisco,CA,94103,SoMa,"2,650","$13,250.00 ",$60.00 ,Office,,cityfeet.com
+262 7th Street,San Francisco,CA,94103,SoMa,"5,850","$20,475.00 ",$42.00 ,Office,,cityfeet.com
+363 Clementina Street,San Francisco,CA,94103,SoMa,"5,400","$27,000.00 ",$60.00 ,Office,60.00-62.00,cityfeet.com
+393 Tehama Street,San Francisco,CA,94103,SoMa,"1,566","$7,000.00 ",$53.64 ,Office,,cityfeet.com
+44 Gough Street,San Francisco,CA,94103,SoMa,"1,502","$5,882.83 ",$47.00 ,Office,,cityfeet.com
+44 Gough Street,San Francisco,CA,94103,SoMa,855,"$3,776.25 ",$53.00 ,Office,,cityfeet.com
+44 Gough Street,San Francisco,CA,94103,SoMa,602,"$2,658.83 ",$53.00 ,Office,,cityfeet.com
+465 Tehama Street,San Francisco,CA,94103,SoMa,"4,000","$22,833.00 ",$68.50 ,Office,,cityfeet.com
+465 Tehama Street,San Francisco,CA,94103,SoMa,"4,000","$22,833.00 ",$68.50 ,Office,,cityfeet.com
+478 Tehama Street,San Francisco,CA,94103,SoMa,"4,484","$16,008.00 ",$42.84 ,Office/Warehouse,,cityfeet.com
+599 3rd Street,San Francisco,CA,94103,SoMa,"2,778","$14,353.00 ",$62.00 ,Office,,cityfeet.com
+680 8th Street,San Francisco,CA,94103,SoMa,"3,800","$14,250.00 ",$45.00 ,Office,,cityfeet.com
+695 Minna Street,San Francisco,CA,94103,SoMa,"5,980","$39,119.00 ",$78.50 ,Office,,cityfeet.com
+711 Market Street,San Francisco,CA,94103,SoMa,"5,000","$27,083.00 ",$65.00 ,Office,,cityfeet.com
+785 Market Street,San Francisco,CA,94103,SoMa,900,"$6,570.00 ",$87.60 ,Office,,cityfeet.com
+928 Harrison Street,San Francisco,CA,94103,SoMa,"15,482","$39,995.00 ",$31.00 ,Office/Warehouse,,cityfeet.com
+939 Howard Street,San Francisco,CA,94103,SoMa,"2,000","$12,000.00 ",$72.00 ,Office,72.00-90.00,cityfeet.com
+1045 17th Street,San Francisco,CA,94107,SoMa,"3,273","$11,128.00 ",$40.80 ,Office,,cityfeet.com
+1250 Missouri Street,San Francisco,CA,94107,SoMa,"1,187","$3,395.00 ",$34.32 ,Office/Warehouse,,cityfeet.com
+185 Clara Street,San Francisco,CA,94107,SoMa,543,"$2,950.00 ",$65.19 ,Office,,cityfeet.com
+2001 3rd Street,San Francisco,CA,94107,SoMa,"4,956","$27,258.00 ",$66.00 ,Office,,cityfeet.com
+210 Mississippi Street,San Francisco,CA,94107,SoMa,"3,300","$6,600.00 ",$24.00 ,Office,,cityfeet.com
+34 Clyde Street,San Francisco,CA,94107,SoMa,"1,250","$7,083.00 ",$68.00 ,Office,,cityfeet.com
+425 2nd Street,San Francisco,CA,94107,SoMa,"4,100","$10,250.00 ",$30.00 ,Office,,cityfeet.com
+461 Bryant Street,San Francisco,CA,94107,SoMa,"1,500","$7,500.00 ",$60.00 ,Office,60.00-62.00,cityfeet.com
+510 Bryant Street,San Francisco,CA,94107,SoMa,"3,500","$14,000.00 ",$48.00 ,Office,48.00-60.00,cityfeet.com
+531 Bryant Street,San Francisco,CA,94107,SoMa,"4,001","$21,672.00 ",$65.00 ,Office,,cityfeet.com
+599 3rd Street,San Francisco,CA,94107,SoMa,"2,066","$10,674.33 ",$62.00 ,Office,,cityfeet.com
+635 Brannan Street,San Francisco,CA,94107,SoMa,"9,160","$36,640.00 ",$48.00 ,Office/Warehouse,,cityfeet.com
+642 Harrison Street,San Francisco,CA,94107,SoMa,"2,555","$10,220.00 ",$48.00 ,Office,,cityfeet.com
+699 2nd Street,San Francisco,CA,94107,SoMa,"3,300","$19,250.00 ",$70.00 ,Office,,cityfeet.com
+772 Bryant Street,San Francisco,CA,94107,SoMa,"2,000","$10,000.00 ",$60.00 ,Office,,cityfeet.com
+776 Bryant Street,San Francisco,CA,94107,SoMa,"2,000","$10,000.00 ",$60.00 ,Office,,cityfeet.com
+780 Bryant Street,San Francisco,CA,94107,SoMa,"2,000","$10,000.00 ",$60.00 ,Office,,cityfeet.com
+890 Folsom Street,San Francisco,CA,94107,SoMa,"1,720","$8,600.00 ",$60.00 ,Office,,cityfeet.com
+925 Harrison Street,San Francisco,CA,94107,SoMa,"1,625","$7,718.75 ",$57.00 ,Office,,cityfeet.com
+925 Harrison Street,San Francisco,CA,94107,SoMa,"2,700","$12,825.00 ",$57.00 ,Office,,cityfeet.com
+969 Folsom Street,San Francisco,CA,94107,SoMa,"8,220","$41,100.00 ",$60.00 ,Office/Warehouse,,cityfeet.com
+1065 Folsom Street,San Francisco,CA,94107,SoMa,"4,620","$21,175.00 ",$55.00 ,Office,,42floors.com
+350 Townsend Street,San Francisco,CA,94107,SoMa,380,"$1,780.00 ",$56.21 ,Office,,42floors.com
+1049 Market Street,San Francisco,CA,94107,SoMa,850,"$2,450.00 ",$34.59 ,Office,,42floors.com
+1049 Market Street,San Francisco,CA,94107,SoMa,800,"$1,950.00 ",$29.25 ,Office,,42floors.com
+1049 Market Street,San Francisco,CA,94107,SoMa,370,$900.00 ,$29.19 ,Office,,42floors.com
+1049 Market Street,San Francisco,CA,94107,SoMa,"10,000","$15,000.00 ",$18.00 ,Office,,42floors.com
