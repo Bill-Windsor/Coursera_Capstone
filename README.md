@@ -5,11 +5,13 @@ In this final project for the IBM Data Science Professional Certification, we ar
 
 In this project I evaluate the business decision: Where Should I Locate a Professional Services Business, choosing between San Francisco in the SoMa District (South of Market Street), or Seattle in the Pioneer Square district?
 
+This entire project can be rendered and viewed using the web utility 'Jupyter Notebook Viewer', at this URL:  
+https://nbviewer.jupyter.org/github/Bill-Windsor/Coursera_Capstone/blob/master/Capstone-Final_SF-vs-SEA-Neighborhoods-new-checkpoint.ipynb
+
 The Python Jupyter Notebook for this project is located at:  
 https://github.com/Bill-Windsor/Coursera_Capstone/blob/master/Capstone-Final_SF-vs-SEA-Neighborhoods-new-checkpoint.ipynb
 
 The final PowerPoint presentation with conclusions is located at:  
 https://github.com/Bill-Windsor/Coursera_Capstone/blob/master/IBM-Capstone-FinalPres_SF-SEA-Business-Location-Decision.pdf
 
-This entire project can be rendered and viewed using the web utility 'Jupyter Notebook Viewer', at this URL:  
-https://nbviewer.jupyter.org/github/Bill-Windsor/Coursera_Capstone/blob/master/Capstone-Final_SF-vs-SEA-Neighborhoods-new-checkpoint.ipynb
+![alt text](https://github.com/Bill-Windsor/Coursera_Capstone/blob/master/William%20Windsor%20Completion%20Certficate%20-%20IBM%20Data%20Science%20Capstone.png)
