@@ -10,3 +10,9 @@ https://github.com/Bill-Windsor/Coursera_Capstone/blob/master/Capstone-Final_SF-
 
 The final presentation with conclusions is located at:
 https://github.com/Bill-Windsor/Coursera_Capstone/blob/master/IBM-Capstone-FinalPres_SF-SEA-Business-Location-Decision.pdf
+
+
+To visualize and render this project, first go to Jupyter Notebook Viewer website at:
+https://nbviewer.jupyter.org/
+ then copy-and-paste the project notebook URL (below) into the space provided, then click 'Go!':
+https://github.com/Bill-Windsor/Coursera_Capstone/blob/master/Capstone-Final_SF-vs-SEA-Neighborhoods-new-checkpoint.ipynb
