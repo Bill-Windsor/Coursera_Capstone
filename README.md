@@ -14,6 +14,6 @@ https://github.com/Bill-Windsor/Coursera_Capstone/blob/master/Capstone-Final_SF-
 The final PowerPoint presentation with conclusions is located at:  
 https://github.com/Bill-Windsor/Coursera_Capstone/blob/master/IBM-Capstone-FinalPres_SF-SEA-Business-Location-Decision.pdf
 
-![](https://github.com/Bill-Windsor/Coursera_Capstone/blob/master/William%20Windsor%20Completion%20Certficate%20-%20IBM%20Data%20Science%20Capstone.png = 300x400)
+![alt text](https://github.com/Bill-Windsor/Coursera_Capstone/blob/master/William%20Windsor%20Completion%20Certficate%20-%20IBM%20Data%20Science%20Capstone.png = 300x400)
 
 
